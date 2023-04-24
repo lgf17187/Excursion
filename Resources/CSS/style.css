@@ -9,6 +9,23 @@ header h1 {
   color: white;
 }
 
+main h2 {
+  display: block;
+  font-weight:300;
+  font-size: 42px;
+  color: white;
+}
+
+main p {
+  color: gray;
+}
+
 :link {
   color: aquamarine;
+  display: block;
+}
+
+footer {
+  color:gray;
+  text-align: right;
 }
