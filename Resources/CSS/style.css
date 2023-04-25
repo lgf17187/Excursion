@@ -20,7 +20,7 @@ main p {
   color: gray;
 }
 
-link {
+.FutureLink {
   color: aquamarine;
   display: block;
 }
