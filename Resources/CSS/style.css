@@ -20,7 +20,7 @@ main p {
   color: gray;
 }
 
-:link {
+link {
   color: aquamarine;
   display: block;
 }
